@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 
 <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/redux-saga-61DAFB?style=for-the-badge&logo=REDUX-SAGA&logoColor=black"/>
+<img src="https://img.shields.io/badge/reduxsaga-999999?style=for-the-badge&logo=REDUX-SAGA&logoColor=black"/>
 
 
 <!-- ![hezelNut00's GitHub stats](https://github-readme-stats.vercel.app/api?username=hezelNut00&show_icons=true&theme=radical) -->
